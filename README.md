@@ -1,16 +1,24 @@
 ## Hi there 👋
+Im Aditi, a Computer Science student at Las Positas College, passionate about building real-world tech that makes everyday life smarter and healthier. I love exploring how data, code, and design come together to solve meaningful problems.
 
-<!--
-**CodeQuest247/CodeQuest247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning: 
+  - Advanced C++ (OOP and data structures) and Python for data analysis  
+  - App development and low-code tools (Glide, React Native basics)  
+  - Prompt engineering and AI integration  
 
-Here are some ideas to get you started:
+👯 I’m looking to collaborate on: 
+  - Beginner-friendly open-source projects or data visualization dashboards  
+  - AI or health tech projects that combine creativity and purpose  
+  
+💬 Ask me about: 
+  - Coding projects for college students building their first portfolio
+  - Organizing and studying for UC transfer prep (especially CS majors!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: 
+  - Email: aditimenon960@gmail.com 
+  - [LinkedIn](https://www.linkedin.com/in/aditi-menon-856264311)  
+
+😄 Pronouns: she/her 
+
+⚡ Fun fact: I love Hackathons!
+
