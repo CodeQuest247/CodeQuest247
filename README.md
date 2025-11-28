@@ -20,5 +20,9 @@ Im Aditi, a Computer Science student at Las Positas College, passionate about bu
 
 😄 Pronouns: she/her 
 
-⚡ Fun fact: I love Hackathons!
+⚡ Fun fact: I'd love to compete in Hackathons!
+
+### 🚀 Featured Projects 
+- [![Grade Calculator](https://github-readme-stats.vercel.app/api/pin/?username=CodeQuest247&repo=GradeCalculator-)](https://github.com/CodeQuest247/GradeCalculator-)
+- [![Budget Tracker](https://github-readme-stats.vercel.app/api/pin/?username=CodeQuest247&repo=BudgetTracker)](https://github.com/CodeQuest247/BudgetTracker)
 
