@@ -1,5 +1,5 @@
 ## Hi there 👋
-Im Aditi, a Computer Science student at Las Positas College, passionate about building real-world tech that makes everyday life smarter and healthier. I love exploring how data, code, and design come together to solve meaningful problems.
+I'm Aditi, a Computer Science student at Santa Clara University, passionate about building real-world tech that makes everyday life smarter and healthier. I love exploring how data, code, and design come together to solve meaningful problems.
 
 🌱 I’m currently learning: 
   - Advanced C++ (OOP and data structures) and Python for data analysis  
