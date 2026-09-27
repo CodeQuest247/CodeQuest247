@@ -1,8 +1,6 @@
 # Hi, I'm Aditi Menon 👋
 
-I'm a Computer Science student at **Santa Clara University**, graduating in **June 2028**. I build full-stack, AI-integrated applications, combining frontend development, backend systems, database management, and application security to create practical, user-focused applications.
-
-Alongside my studies, I work as a **Code Coach at The Coder School**, teaching block coding through hands-on programming projects.
+I'm a Computer Science student at **Santa Clara University**, graduating in **June 2028**. I'm a Computer Science student at **Santa Clara University**, with an expected graduation date of **June 2028**. Alongside my studies, I build full-stack, AI-integrated applications, combining frontend development, backend systems, database management, and application security to create practical, user-focused solutions. I also share my enthusiasm for programming as a **Code Coach at The Coder School**, where I teach block coding and help students develop problem-solving skills through hands-on projects.
 
 ## Technical Skills
 
