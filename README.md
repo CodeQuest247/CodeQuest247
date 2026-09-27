@@ -22,6 +22,7 @@ I'm Aditi, a Computer Science student at Santa Clara University, passionate abou
 ⚡ Fun fact: I love to compete in Hackathons!
 
 ### 🚀 Featured Projects 
+- [AI-Powered Math Tutor](https://math-reps-phi.vercel.app)
 - [![Grade Calculator](https://github-readme-stats.vercel.app/api/pin/?username=CodeQuest247&repo=GradeCalculator-)](https://github.com/CodeQuest247/GradeCalculator-)
 - [![Budget Tracker](https://github-readme-stats.vercel.app/api/pin/?username=CodeQuest247&repo=BudgetTracker)](https://github.com/CodeQuest247/BudgetTracker)
 - [![Offset Char Reader](https://github-readme-stats.vercel.app/api/pin/?username=CodeQuest247&repo=OffsetCharReader-)](https://github.com/CodeQuest247/OffsetCharReader-)
