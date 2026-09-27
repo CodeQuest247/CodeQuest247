@@ -3,7 +3,7 @@ I'm Aditi, a Computer Science student at Santa Clara University, passionate abou
 
 🌱 I’m currently learning: 
   - Advanced C++ (OOP and data structures) and Python  
-  - Experienced in full stack software development and using software tools including React, Glide, Claude Code, PostgreSQL/Neon, Vercel, Git, VS Code, and more  
+  - Experienced in full-stack software development and using software tools including React, Glide, Claude Code, PostgreSQL/Neon, Vercel, Git, VS Code, and more  
   - Prompt engineering and AI integration  
 
 👯 I’m looking to collaborate on: 
