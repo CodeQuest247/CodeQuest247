@@ -7,20 +7,19 @@ I'm Aditi, a Computer Science student at Santa Clara University, passionate abou
   - Prompt engineering and AI integration  
 
 👯 I’m looking to collaborate on: 
-  - Beginner-friendly open-source projects or data visualization dashboards  
+  - Open source projects or data visualization dashboards  
   - AI or health tech projects that combine creativity and purpose  
   
 💬 Ask me about: 
-  - Coding projects for college students building their first portfolio
-  - Organizing and studying for UC transfer prep (especially CS majors!)
-
+  - Coding projects for college students building their portfolio
+ 
 📫 How to reach me: 
   - Email: aditimenon960@gmail.com 
   - [LinkedIn](https://www.linkedin.com/in/aditi-menon-856264311)  
 
 😄 Pronouns: she/her 
 
-⚡ Fun fact: I'd love to compete in Hackathons!
+⚡ Fun fact: I love to compete in Hackathons!
 
 ### 🚀 Featured Projects 
 - [![Grade Calculator](https://github-readme-stats.vercel.app/api/pin/?username=CodeQuest247&repo=GradeCalculator-)](https://github.com/CodeQuest247/GradeCalculator-)
