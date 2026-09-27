@@ -1,25 +1,44 @@
-## Hi there 👋
-I'm Aditi, a Computer Science student at Santa Clara University, passionate about building real-world tech that makes everyday life smarter and healthier. I love exploring how data, code, and design come together to solve meaningful problems.
+# Hi, I'm Aditi Menon 👋
 
-🌱 I’m currently learning: 
-  - Advanced C++ (OOP and data structures) and Python  
-  - Experienced in full-stack software development and using software tools including React, Glide, Claude Code, PostgreSQL/Neon, Vercel, Git, VS Code, Glide and more  
-  - Prompt engineering and AI integration  
+I'm a Computer Science student at **Santa Clara University**, graduating in **June 2028**, with a **3.8 GPA**. I build AI-integrated applications and use data analysis to solve practical problems, with an interest in software development and application security.
 
-👯 I’m looking to collaborate on: 
-  - Open source projects or data visualization dashboards  
-  - AI or health tech projects that combine creativity and purpose  
-  
-💬 Ask me about: 
-  - Coding projects for college students building their portfolio
- 
-📫 How to reach me: 
-  - Email: aditimenon960@gmail.com 
-  - [LinkedIn](https://www.linkedin.com/in/aditi-menon-856264311)  
+Alongside my studies, I work as a **Code Coach at The Coder School**, teaching Python and Scratch through hands-on programming projects.
 
-😄 Pronouns: she/her 
+## Technical Skills
 
-⚡ Fun fact: I love to compete in Hackathons!
+- **Languages:** Python, C++, SQL
+- **Web Development & Databases:** React, PostgreSQL, Neon, Glide
+- **AI & Integration:** OpenAI API, Anthropic API, Claude Code, Prompt Engineering
+- **Data Analysis:** Pandas, Matplotlib, Jupyter Notebook
+- **Development Tools:** Git, GitHub, VS Code, PyCharm, Vercel
+- **Foundations:** Data Structures, Algorithms, Debugging, Problem Solving
+
+## Featured Projects
+
+### [AI-Powered Math Tutor](https://math-reps-phi.vercel.app)
+Built a math tutoring application that uses uploaded course materials to identify topics and generate personalized practice. Features include mastery tracking, spaced repetition, and interleaving to support focused exam preparation.
+
+**Technologies:** React, Claude Code, OpenAI API, SQL, Neon/PostgreSQL, Git/GitHub, Vercel
+
+### Gut Health App
+Developed a nutrition-tracking application with timestamped food logs, AI-generated food assessments, and personalized nutrition suggestions.
+
+**Technologies:** Glide, OpenAI API, Prompt Engineering
+
+### U.S. Demographic Trends Analysis
+Analyzed more than four decades of U.S. Social Security Administration data to explore naming diversity, estimate age distributions, and visualize historical trends.
+
+**Technologies:** Python, Pandas, Matplotlib
+
+## Collaboration & Interests
+
+I'm interested in collaborating on AI-integrated applications, educational tools, health technology, and data visualization projects. I enjoy debugging, explaining technical concepts, and building useful applications with thoughtful user experiences.
+
+## Connect With Me
+
+- **Email:** aditimenon960@gmail.com
+- **LinkedIn:** [Aditi Menon](https://www.linkedin.com/in/aditi-menon-856264311)
+- **Try my app:** [AI-Powered Math Tutor](https://math-reps-phi.vercel.app)
 
 ### 🚀 Featured Projects 
 - [AI-Powered Math Tutor](https://math-reps-phi.vercel.app)
