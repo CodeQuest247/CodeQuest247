@@ -2,8 +2,8 @@
 I'm Aditi, a Computer Science student at Santa Clara University, passionate about building real-world tech that makes everyday life smarter and healthier. I love exploring how data, code, and design come together to solve meaningful problems.
 
 🌱 I’m currently learning: 
-  - Advanced C++ (OOP and data structures) and Python for data analysis  
-  - App development and low-code tools (Glide, React Native basics)  
+  - Advanced C++ (OOP and data structures) and Python  
+  - Experienced in app development and software tools including React, Glide, Claude Code, PostgreSQL/Neon, Vercel, Git, VS Code, and more  
   - Prompt engineering and AI integration  
 
 👯 I’m looking to collaborate on: 
