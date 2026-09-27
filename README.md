@@ -1,6 +1,6 @@
 # Hi, I'm Aditi Menon 👋
 
-I'm a Computer Science student at **Santa Clara University**, graduating in **June 2028**, with a **3.8 GPA**. I build AI-integrated applications and use data analysis to solve practical problems, with an interest in software development and application security.
+I'm a Computer Science student at **Santa Clara University**, graduating in **June 2028**. I build AI-integrated applications and use data analysis to solve practical problems, with an interest in software development and application security.
 
 Alongside my studies, I work as a **Code Coach at The Coder School**, teaching block coding through hands-on programming projects.
 
