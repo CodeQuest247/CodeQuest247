@@ -38,7 +38,6 @@ I'm interested in collaborating on AI-integrated applications, educational tools
 
 - **Email:** aditimenon960@gmail.com
 - **LinkedIn:** [Aditi Menon](https://www.linkedin.com/in/aditi-menon-856264311)
-- **Try my app:** [AI-Powered Math Tutor](https://math-reps-phi.vercel.app)
 
 ### 🚀 Featured Projects 
 - [AI-Powered Math Tutor](https://math-reps-phi.vercel.app)
